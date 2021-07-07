@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1625666906 source:c:\users\quique\desktop\ejercicioscodeblocks\parciallab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"menu.h"
+	"controller.h"
+	"time.h"
+
+1625667386 source:c:\users\quique\desktop\ejercicioscodeblocks\parciallab2\pais.c
+	"ePais.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1625666894 c:\users\quique\desktop\ejercicioscodeblocks\parciallab2\epais.h
+
+1625618592 source:c:\users\quique\desktop\ejercicioscodeblocks\parciallab2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625618539 c:\users\quique\desktop\ejercicioscodeblocks\parciallab2\linkedlist.h
+
+1625660139 c:\users\quique\desktop\ejercicioscodeblocks\parciallab2\menu.h
+
+1625664273 c:\users\quique\desktop\ejercicioscodeblocks\parciallab2\controller.h
+
+1625660208 source:c:\users\quique\desktop\ejercicioscodeblocks\parciallab2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
+1625664285 source:c:\users\quique\desktop\ejercicioscodeblocks\parciallab2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"ePais.h"
+
+1625666864 source:c:\users\quique\desktop\ejercicioscodeblocks\parciallab2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"ePais.h"
+	"Controller.h"
+	"menu.h"
+	"parser.h"
+
+1625618390 c:\users\quique\desktop\ejercicioscodeblocks\parciallab2\parser.h
+
